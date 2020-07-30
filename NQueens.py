@@ -7,7 +7,7 @@ that none of the put queens atack each other?
 
 # Given a chess board status and a row that the queen will be placed to
 # return if that position would be possible so that that new queen is not
-# being attacked by other queens already put in the board
+# being attacked by other queens already put on the board
 def is_completable(board, row):
 
     completable = True
